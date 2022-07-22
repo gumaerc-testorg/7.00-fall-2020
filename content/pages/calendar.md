@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information about each of the video webinars offered
+  when the course ran live.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2c792bd7-4590-5d33-6e50-77b0ae1237e1
 ---
