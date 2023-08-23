@@ -1,7 +1,7 @@
 leftnav:
 - identifier: 2c792bd7-4590-5d33-6e50-77b0ae1237e1
   name: Calendar
-  url: /pages/calendar
+  pageRef: /pages/calendar
   weight: 10
 - identifier: external--1761928535-1647030922536
   name: Online Publication
