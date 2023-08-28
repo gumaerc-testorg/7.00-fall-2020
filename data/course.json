@@ -38,6 +38,7 @@
     "website": "7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2020"
   },
   "course_title": "COVID-19, SARS-CoV-2 and the Pandemic",
+  "hide_download": true,
   "course_description": "During Fall 2020, all MIT students and the general public were welcomed to join Professors Richard Young and Facundo Batista as they discussed the science of the pandemic during this new class.\u00a0The livestream of the lectures was available to the public, but only registered students were able to ask questions during the Q&A.\u00a0\n\nSpecial guest speakers included: Drs. Anthony Fauci, David Baltimore, James Bradner, Victoria Clark, Kizzmekia Corbett, Britt Glaunsinger, Akiko Iwasaki, Eric Lander, Michael Mina, Michel Nussenzweig, Shiv Pillai, Arlene Sharpe, Skip Virgin, and Bruce Walker.\n\nNOTE: This class ran from September 1, 2020 through December 8, 2020.\n",
   "department_numbers": [
     "7"
@@ -50,6 +51,6 @@
   },
   "learning_resource_types": [],
   "site_uid": "660484f1-8d2b-4b98-8a9f-c4892c087e7a",
-  "short_id": "7.00-fall-2020",
+  "site_short_id": "7.00-fall-2020",
   "title": "Course Metadata"
 }
