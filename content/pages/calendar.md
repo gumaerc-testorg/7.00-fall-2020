@@ -33,7 +33,7 @@ SPEAKER
 {{< tdopen >}}
 
 
-{{% resource_link "242d07bb-8a15-45c3-8c09-cbab2fc89587" "COVID-19 and the Pandemic" %}}
+[COVID-19 and the Pandemic](https://www.youtube.com/watch?v=XbIfFY_fJ_s&feature=emb_imp_woyt)
 
 9/1/2020
 
@@ -51,7 +51,7 @@ Dr. Bruce D. Walker of the Ragon Institute of MGH, MIT and Harvard
 {{< tdopen >}}
 
 
-{{% resource_link "63d5ff1b-5c3c-453b-889a-bb5f6eaeb3b4" "Coronavirus Biology" %}}
+[Coronavirus Biology](https://www.youtube.com/watch?v=r2mOU2qOCYs&feature=emb_imp_woyt)
 
 9/8/2020
 
@@ -69,7 +69,7 @@ Dr. Britt Glaunsinger ﻿of the University of California, Berkeley
 {{< tdopen >}}
 
 
-{{% resource_link "3e00050f-b2e4-417c-988b-005ef4f7c0c9" "Virology and Lessons from the AIDS Pandemic" %}}
+[Virology and Lessons from the AIDS Pandemic](https://www.youtube.com/watch?v=0tfYTx5C4Es&feature=emb_imp_woyt)
 
 9/15/2020
 
@@ -87,7 +87,7 @@ Dr. David Baltimore of Caltech
 {{< tdopen >}}
 
 
-{{% resource_link "3973a1ad-55eb-4710-9e11-ad5fb0cc02c9" "Insights from the COVID-19 Pandemic" %}}
+[Insights from the COVID-19 Pandemic](https://www.youtube.com/watch?v=J38QN1vnSO0&feature=emb_imp_woyt)
 
 9/22/2020
 
@@ -105,7 +105,7 @@ Dr. Anthony Fauci, Director of the National Institute of Allergy and Infectious 
 {{< tdopen >}}
 
 
-{{% resource_link "dde22feb-39cb-4510-97e1-0a59de51bfb1" "Viral Immunology" %}}
+[Viral Immunology](https://www.youtube.com/watch?v=2xdOHvADDdI&feature=emb_imp_woyt)
 
 9/29/2020
 
@@ -123,7 +123,7 @@ Dr. Michel Nussenzweig of The Rockefeller University
 {{< tdopen >}}
 
 
-{{% resource_link "7f5d07d1-7466-4e2b-8d62-32900588f8cd" "Target Cells and the Innate Response" %}}
+[Target Cells and the Innate Response](https://www.youtube.com/watch?v=2mL_cOckhzg&feature=emb_imp_woyt)
 
 10/6/2020
 
@@ -141,7 +141,7 @@ Dr. Shiv Pillai of the Ragon Institute and MGH
 {{< tdopen >}}
 
 
-{{% resource_link "77344e6f-c209-4325-84bb-e8ba1a0656d0" "The Patient" %}}
+[The Patient](https://www.youtube.com/watch?v=SUMOipm3kAg&feature=emb_imp_woyt)
 
 10/20/2020
 
@@ -159,7 +159,7 @@ Dr. Victoria Clark of Whitehead Institute and MGH
 {{< tdopen >}}
 
 
-{{% resource_link "e16e57df-7c27-4422-8d7a-c421f3eff39d" "Epidemiology" %}}
+[Epidemiology](https://www.youtube.com/watch?v=tAHIAd2Cvmo&feature=emb_imp_woyt)
 
 10/27/2020
 
@@ -177,7 +177,7 @@ Dr. Michael Mina of the Harvard T. H. Chan School of Public Health
 {{< tdopen >}}
 
 
-{{% resource_link "9972aafa-5c25-437a-937d-70aab4f50e0e" "Immunology: T Cells" %}}
+[Immunology: T Cells](https://www.youtube.com/watch?v=1FVAFy6qruY&feature=emb_imp_woyt)
 
 11/3/2020
 
@@ -195,7 +195,7 @@ Dr. Arlene Sharpe of Harvard Medical School
 {{< tdopen >}}
 
 
-{{% resource_link "c6a2ab88-6331-4383-a8c4-1109aa7e07ac" "Vaccines" %}}
+[Vaccines](https://www.youtube.com/watch?v=xpqfdr9FPWM&feature=emb_imp_woyt)
 
 11/10/2020
 
@@ -213,7 +213,7 @@ Dr. Kizzmekia Corbett of the National Institutes of Health
 {{< tdopen >}}
 
 
-{{% resource_link "6d7811e3-29ee-4bd2-9cc9-e4e276c5c9f3" "Immunology: Antibodies" %}}
+[Immunology: Antibodies](https://www.youtube.com/watch?v=UXEEonb7MGM&feature=emb_imp_woyt)
 
 11/17/2020
 
@@ -231,7 +231,7 @@ Dr. Akiko Iwasaki of Yale Medical School
 {{< tdopen >}}
 
 
-{{% resource_link "cc4a9da2-f2fb-47bd-b89e-e134266555c0" "Small Molecule Therapeutics" %}}
+[Small Molecule Therapeutics](https://www.youtube.com/watch?v=2B0BXowfnzo&feature=emb_imp_woyt)
 
 11/24/2020
 
@@ -249,7 +249,7 @@ Dr. James Bradner of the Novartis Institutes for BioMedical Research (NIBR)
 {{< tdopen >}}
 
 
-{{% resource_link "18099c8c-c6b8-4398-b9b3-0503e02bb548" "Therapeutics Discovery" %}}
+[Therapeutics Discovery](https://www.youtube.com/watch?v=f0110oTQZD8&feature=emb_imp_woyt)
 
 12/1/2020
 
@@ -267,7 +267,7 @@ Dr. Skip Virgin of Vir Biotechnology
 {{< tdopen >}}
 
 
-{{% resource_link "0462087a-bf1a-4089-b9a1-3a6c708c2d12" "Rapid Research Response in a Pandemic" %}}
+[Rapid Research Response in a Pandemic](https://www.youtube.com/watch?v=HLkuchTScn8&feature=emb_imp_woyt)
 
 12/6/2020
 
